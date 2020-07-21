@@ -1,0 +1,3 @@
+[submodule "poc/calc"]
+	path = poc/calc
+	url = git@github.com:Hugozys/calc.git
